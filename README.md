@@ -13,7 +13,7 @@ I'm a dedicated enthusiast in the realms of computer science and electronics.<br
   <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=react&hide_border=true)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&langs_count=20&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut)" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&langs_count=20&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=320)" />
 </a>
 
 ## Get in Touch
