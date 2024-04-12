@@ -5,14 +5,7 @@ Welcome to my GitHub profile! I'm passionate about Angular development and craft
 
 ## Skills
 
-- **Angular Framework**: Proficient in building dynamic web applications using Angular, leveraging its powerful features such as components, services, routing, and forms.
-- **HTML/CSS/SCSS**: Strong understanding of HTML5 and CSS3, with experience in styling Angular applications using SCSS for enhanced modularity and maintainability.
-- **TypeScript**: Solid grasp of TypeScript, the language of choice for Angular development, ensuring type safety and improved developer productivity.
-- **RESTful APIs**: Experienced in integrating Angular applications with RESTful APIs to fetch and manipulate data, using HttpClient module and observables.
-- **State Management**: Familiarity with state management patterns in Angular, including RxJS for reactive programming and NgRx for centralized state management.
-- **Responsive Design**: Skilled in creating responsive layouts and ensuring cross-browser compatibility to deliver seamless user experiences across devices.
-- **Version Control**: Proficient in using Git for version control, collaborating with team members, and managing codebase efficiently using GitHub.
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/m-czapiewski/
 
