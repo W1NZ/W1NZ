@@ -9,10 +9,10 @@ I'm a dedicated enthusiast in the realms of computer science and electronics.<br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&langs_count=20&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=320)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=react&hide_border=true]" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&langs_count=20&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=320]" />
 </a>
 
