@@ -7,7 +7,6 @@ I'm a dedicated enthusiast in the realms of computer science and electronics. I'
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=W1NZ&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-czapiewski)
