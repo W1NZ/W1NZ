@@ -14,7 +14,7 @@ I'm a dedicated enthusiast in the realms of computer science and electronics.<br
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-czapiewski)
-
+<a href="https://linkedin.com/in/m-czapiewski" target="_blank">[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]</a>
 Feel free to reach out if you have any questions or would like to collaborate on a project. Let's build something amazing together!
 
 <!--
