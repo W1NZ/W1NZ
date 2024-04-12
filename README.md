@@ -6,7 +6,7 @@ I'm a dedicated enthusiast in the realms of computer science and electronics.<br
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=react&hide_border=true&card_width=200)
+![](https://github-readme-streak-stats.herokuapp.com/?user=W1NZ&theme=react&hide_border=true&card_width=600)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=W1NZ&langs_count=20&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=donut&card_width=200)
 
 ## Get in Touch
